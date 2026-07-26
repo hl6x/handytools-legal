@@ -6,7 +6,7 @@ HandyTools is committed to protecting your privacy. This policy explains how we 
 ### 1. 100% Offline Operation
 HandyTools is designed as a standalone,offline utility toolbox.
 * We do not collect, or transmit any of your usage data.
-* All measurements renain strictly on your device.
+* All measurements remain strictly on your device.
 
 ### 2. Permissions
 The app requires minimal permissions. The camera permission is used solely for AR Measurement features and no images are strored or transmitted.
