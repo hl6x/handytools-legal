@@ -1,21 +1,21 @@
 # Privacy Policy for HandyTools
-**Last Updated: July 2026**
+**Last Updated: August 2026**
 
-ProFolio is committed to protecting your privacy. This policy explains how we handle data.
+HandyTools is committed to protecting your privacy. This policy explains how we handle data.
 
 ### 1. 100% Offline Operation
-HandyTools is designed as a standalone,offline estimating tool.
-* We do not collect, or transmit any project data.
-* All estimates renain strictly on your device.
+HandyTools is designed as a standalone,offline utility toolbox.
+* We do not collect, or transmit any of your usage data.
+* All measurements renain strictly on your device.
 
 ### 2. Permissions
-The app requires minimal permissions. Internet access is only used if you choose to view online documentation or contact support.
+The app requires minimal permissions. The camera permission is used solely for AR Measurement features and no images are strored or transmitted.
 
 ### 3. Third-Party Services
-We do not use third-party analytics, tracking, or advertising SDKs.
+HandyTools use Google Play Services for secure billing transactions, We do not use third-party analytics, tracking, or advertising SDKs.
 
 ### 4. Data Security
-Since your data is primarily stored on your own device, you are responsible for maintainig backups. 
+HandyTools does not collect or store any personal information or tool data on external servers, all settings remain local to your device. 
 
 ### CONTACT SUPPORT
 For privacy inquiries, contact: <hl6@outlook.com>
